@@ -1,7 +1,6 @@
 # Smart Garage Door Opener
-
-## Overview
 The **Smart Garage Door Opener** is an IoT-based automation system designed to enhance security and convenience. This project uses the **ESP32 microcontroller**, **Firebase** for real-time cloud synchronization, **MQTT** for telemetry, **ultrasonic sensors** for automatic control, and a **mobile app** for remote access.
+
 
 ## Features
 - **Automatic & Manual Control**: Open/close the garage door using sensors or a mobile app.
