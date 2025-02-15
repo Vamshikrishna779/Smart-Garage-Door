@@ -85,7 +85,7 @@ This project is licensed under the **MIT License**. Feel free to modify and cont
 ## Contributors
 - **GitHub:** [Vamshikrishna](https://github.com/Vamshikrishna779)
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- **Collaborators**
+**Collaborators**
 - [Sowmya](https://github.com/Sowmya2026)
 
 
