@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Door Lock Section -->
+    <TextView
+        android:id="@+id/tvDoorLockStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Door is Unlocked"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <Switch
+        android:id="@+id/switchDoorLock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lock/Unlock Door"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Wi-Fi Settings Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wi-Fi Settings"
+        android:textSize="20sp"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- SSID Input -->
+    <EditText
+        android:id="@+id/ssidInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Wi-Fi SSID"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"
+        android:textSize="18sp"
+        android:background="@drawable/edittest_background"
+        android:padding="16dp"/>
+
+    <!-- Password Input -->
+    <EditText
+        android:id="@+id/passwordInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Wi-Fi Password"
+        android:inputType="textPassword"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:background="@drawable/edittest_background"
+        android:padding="16dp"/>
+
+    <!-- Save Wi-Fi Button -->
+    <Button
+        android:id="@+id/buttonSaveWiFi"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="@color/button_color"
+        android:padding="16dp"
+        android:text="Update Wi-Fi Credentials"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+
+    <!-- Door Control Button -->
+   <!-- <Button
+        android:id="@+id/buttonDoorControl"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Control Door"
+        android:padding="14dp"
+        android:backgroundTint="@color/button_color"
+        android:layout_marginTop="32dp"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/doorStatusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Door Status: Unknown"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp" />-->
+
+</LinearLayout>

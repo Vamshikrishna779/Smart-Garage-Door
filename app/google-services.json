@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225293208010",
+    "firebase_url": "https://esp32-garage-1ccb3-default-rtdb.firebaseio.com",
+    "project_id": "esp32-garage-1ccb3",
+    "storage_bucket": "esp32-garage-1ccb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225293208010:android:221453072de71c12b3a733",
+        "android_client_info": {
+          "package_name": "com.example.garagedoor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPjV4X4mPtCNKMY3N6kk9LnN-HfTySmdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

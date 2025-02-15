@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/background_color"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/doorStatusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Door Status: Unknown"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-medium"
+        android:layout_gravity="center"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/openButton"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="@color/button_color"
+        android:padding="16dp"
+        android:text="Open Door"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/closeButton"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Close Door"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/dashboardButton"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="View Dashboard"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/historyButton"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="View History"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:padding="16dp" />
+</LinearLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/background_color"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Garage Door Controller"
+            android:textSize="24sp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-medium"
+            android:padding="16dp"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/buttonOpen"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:backgroundTint="@color/button_color"
+            android:padding="16dp"
+            android:text="Open Door"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/buttonClose"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Close Door"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"
+            android:padding="16dp"/>
+
+        <TextView
+            android:id="@+id/txtDoorStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Door Status: " />
+
+        <TextView
+            android:id="@+id/txtDistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distance:" />
+    </LinearLayout>-->
