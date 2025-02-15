@@ -66,8 +66,12 @@ The **Smart Garage Door Opener** is an IoT-based automation system designed to e
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/example1.png" width="300">
-  <img src="https://github.com/user-attachments/assets/example2.png" width="300">
+  <img src="![image](https://github.com/user-attachments/assets/b68abee7-0b17-49fd-8d2b-879cc66cfeac)" width="250" height="500">
+  <img src="![image](https://github.com/user-attachments/assets/b34dd2cd-9207-457e-a74f-b70081c48c45)" width="250" height="500">
+  <img src="![image](https://github.com/user-attachments/assets/2cd751e7-6997-479e-ba46-5e87df81bdce)" width="250" height="500">
+<img src="![image](https://github.com/user-attachments/assets/2fd9614c-fee3-4f49-8644-507b84c3c75d)" width="250" height="500">
+<img src="![image](https://github.com/user-attachments/assets/5d8d0545-eb62-45fb-aad0-e6ec0d318231)" width="250" height="500">
+ 
 </p>
 
 ## Future Enhancements
