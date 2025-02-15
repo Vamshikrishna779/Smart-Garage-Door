@@ -83,10 +83,9 @@ The **Smart Garage Door Opener** is an IoT-based automation system designed to e
 This project is licensed under the **MIT License**. Feel free to modify and contribute.
 
 ## Contributors
-- **GitHub:** [Vamshikrishna779](https://github.com/Vamshikrishna779)
+- **GitHub:** [Vamshikrishna](https://github.com/Vamshikrishna779)
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **Collaborators**
-- [Sowmya2026(https://github.com/Sowmya2026)]
+- [Sowmya](https://github.com/Sowmya2026)
 
-## Contact
 
